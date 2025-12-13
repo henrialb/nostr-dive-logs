@@ -2,6 +2,10 @@
 
 This repo is a work in progress to build a NIP[^1] specification allowing dive logbooks on Nostr. The main goal is to produce a NIP draft. I also aim to make available example code and a reference implementation.
 
+- [NIP draft](NIP-draft.md)
+- Example code
+- Reference client
+
 If you're unfamiliar with the Nostr protocol, learn about it [here](https://nostr.how/).
 
 ## Motivation
