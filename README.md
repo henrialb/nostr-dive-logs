@@ -12,7 +12,7 @@ Divers rely on applications developed by the main diving organisations for their
 
 - Divers can log their dives, which can be private or public
 - Divers can attach media to their dives (photos, videos)
-- Divers can rate sites and diving centres
+- Divers can review sites and diving centres
 - Diving centres/schools can verify dives
 - Diving organisations such as PADI and SSI can accredit diving centres
 - Diving schools can issue certificates to divers
@@ -23,4 +23,4 @@ Divers rely on applications developed by the main diving organisations for their
 
 The easiest way to contribute is giving feedback. Ideas and code are welcome too.
 
-[^1]: Nostr Implementation Possibilities
+[^1]: NIPs stand for Nostr Implementation Possibilities
