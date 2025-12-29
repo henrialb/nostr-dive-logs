@@ -10,7 +10,7 @@ If you're unfamiliar with the Nostr protocol, learn about it [here](https://nost
 
 ## Motivation
 
-Divers rely on applications developed by the main dive organisations for their digital logbook. This means they don't own their data (as they do with a physical logbook) and can't easily migrate to another application. Having a NIP specification for dive logs would allow multiple interoperable clients to be developed. Divers can choose their favourite logbook application and switch any time, taking their dive history with them. This is possible thanks to Nostr's decentralised, permissionless and censorship-resistant nature. Additionally, social components can be integrated, allowing divers to share a dive with the world and other users to see a public dive, comment and zap it (give a tip).
+Divers rely on applications developed by the main dive organisations for their digital logbook. This means they don't own their data (as they do with a physical logbook) and can't easily migrate to another application. Having a NIP specification for dive logs would allow multiple interoperable clients to be developed. Divers can choose their favourite logbook application and switch any time, taking their dive history with them. This is possible thanks to Nostr's decentralised, permissionless, and censorship-resistant architecture. Additionally, social components can be integrated, allowing divers to share a dive with the world and other users to see a public dive, comment and zap it (give a tip).
 
 ## Possibilities
 
